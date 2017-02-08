@@ -1,0 +1,2 @@
+# stl_tree
+The tree.hpp library for C++ provides an STL-like container class for n-ary trees, templated over the data stored at the nodes. Various types of iterators are provided (post-order, pre-order, and others). Where possible the access methods are compatible with the STL or alternative algorithms are available. The library is available under the terms of the GNU General Public License version 2 or 3
